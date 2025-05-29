@@ -111,15 +111,15 @@ Open `index.html` in a browser to view the application.
 
 ### **Initial View**
 
-[Initial View](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/Initial_View.png)
+![Initial View](./images/Initial_View.png)
 
 ### **Country Selected**
 
-[Country Selected](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/Country_selected.png)
+![Country Selected](./images/Country_selected.png)
 
 ### **State Selected**
 
-[State Selected](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/State_selected.png)
+![State Selected](./images/State_selected.png)
 
 ---
 
