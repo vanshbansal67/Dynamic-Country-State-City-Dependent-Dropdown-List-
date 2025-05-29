@@ -111,15 +111,15 @@ Open `index.html` in a browser to view the application.
 
 ### **Initial View**
 
-![Initial View]("C:\Users\new\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 223501.png")
+![Initial View](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/Initial_View.png)
 
 ### **Country Selected**
 
-![Country Selected]("C:\Users\new\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 223657.png")
+![Country Selected](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/Country_selected.png)
 
 ### **State Selected**
 
-![State Selected](https://via.placeholder.com/600x400?text=State+Selected)
+![State Selected](/Dynamic-Country-State-City-Dependent-Dropdown-List-/images/State_selected.png)
 
 ---
 
