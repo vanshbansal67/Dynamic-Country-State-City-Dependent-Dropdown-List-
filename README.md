@@ -111,11 +111,11 @@ Open `index.html` in a browser to view the application.
 
 ### **Initial View**
 
-![Initial View](https://via.placeholder.com/600x400?text=Initial+View)
+![Initial View]("C:\Users\new\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 223501.png")
 
 ### **Country Selected**
 
-![Country Selected](https://via.placeholder.com/600x400?text=Country+Selected)
+![Country Selected]("C:\Users\new\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 223657.png")
 
 ### **State Selected**
 
@@ -139,4 +139,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at [your-email@example.com].
+For any questions or feedback, feel free to reach out at [bnslgvansh67@gmail.com].
